@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "declaration": true,
-    "outDir": "lib",
-    "strict": false,
-    "lib": ["es2017"]
-  }
-}
